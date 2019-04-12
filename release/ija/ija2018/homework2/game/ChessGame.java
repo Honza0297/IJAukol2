@@ -1,6 +1,5 @@
 package ija.ija2018.homework2.game;
 
-import ija.ija2018.homework2.board.Board;
 import ija.ija2018.homework2.common.Command;
 import ija.ija2018.homework2.common.Field;
 import ija.ija2018.homework2.common.Figure;

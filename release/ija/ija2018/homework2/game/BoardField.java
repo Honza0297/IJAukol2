@@ -1,8 +1,7 @@
-package ija.ija2018.homework2.board;
+package ija.ija2018.homework2.game;
 
 import ija.ija2018.homework2.common.Field;
 import ija.ija2018.homework2.common.Figure;
-import ija.ija2018.homework2.game.figures.CheckerDisk;
 
 public class BoardField implements Field {
     private boolean empty;

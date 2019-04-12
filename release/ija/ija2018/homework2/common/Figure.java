@@ -1,7 +1,5 @@
 package ija.ija2018.homework2.common;
 
-import ija.ija2018.homework2.board.BoardField;
-
 public interface Figure {
 
 

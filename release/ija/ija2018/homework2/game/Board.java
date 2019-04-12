@@ -1,4 +1,4 @@
-package ija.ija2018.homework2.board;
+package ija.ija2018.homework2.game;
 
 import ija.ija2018.homework2.common.Field;
 

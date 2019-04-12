@@ -7,7 +7,7 @@ package ija.ija2018.homework2;
 import ija.ija2018.homework2.common.Field;
 import ija.ija2018.homework2.common.Figure;
 import ija.ija2018.homework2.common.Game;
-import ija.ija2018.homework2.board.Board;
+import ija.ija2018.homework2.game.Board;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -47,10 +47,10 @@ public class Homework2Test {
         for (int i = 2; i <= 7; i++) {
             Assert.assertTrue("[" + i + ",1] je prazdne.", board.getField(i, 1).isEmpty());
         }
-        
+
         Figure figure;
         Field field;
-        
+
         // cerne figury
         figure = board.getField(3, 7).get();
         field = board.getField(3, 8);
@@ -77,9 +77,9 @@ public class Homework2Test {
         Assert.assertTrue("Presun veze na [3,3]", game.move(figure, field));
         field = board.getField(3, 6);
         Assert.assertTrue("Presun veze na [3,6] (sebrani cerneho pesce)", game.move(figure, field));
-        
+
         Assert.assertEquals("Na [3,6] je vez.", "V[W]3:6", board.getField(3, 6).get().getState());
-        
+
         // jeden krok zpet
         game.undo();
         Assert.assertEquals("Na [3,6] je pesec.", "P[B]3:6", board.getField(3, 6).get().getState());
@@ -107,23 +107,23 @@ public class Homework2Test {
 
         Figure figure;
         Field field;
-        
+
         figure = board.getField(3, 1).get();
         field = board.getField(2, 2);
         Assert.assertFalse("Presun pesce na [3,2]", game.move(figure, field));
 
         figure = board.getField(4, 2).get();
         field = board.getField(3, 3);
-        Assert.assertTrue("Presun pesce na [3,3]", game.move(figure, field)); //tu se to poserie, pan velkomozny :(
+        Assert.assertTrue("Presun pesce na [3,3]", game.move(figure, field));
         field = board.getField(5, 3);
         Assert.assertFalse("Presun pesce na [5,3]", game.move(figure, field));
-        
+
         // jeden krok zpet
         game.undo();
-        
+
         field = board.getField(5, 3);
         Assert.assertTrue("Presun pesce na [5,3]", game.move(figure, field));
-        
+
     }
-    
+
 }

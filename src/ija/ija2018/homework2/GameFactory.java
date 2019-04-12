@@ -1,7 +1,7 @@
 package ija.ija2018.homework2;
 
 import ija.ija2018.homework2.common.Game;
-import ija.ija2018.homework2.board.Board;
+import ija.ija2018.homework2.game.Board;
 import ija.ija2018.homework2.game.CheckerGame;
 import ija.ija2018.homework2.game.ChessGame;
 

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9fbdb4-bfc1-413f-a28b-d7ae954e3a58" name="Default Changelist" comment="" />
+    <list default="true" id="3f9fbdb4-bfc1-413f-a28b-d7ae954e3a58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/GameFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/Homework2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/Homework2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/board/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/board/BoardField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/game/CheckerGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/game/CheckerGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/game/ChessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IJAukol2/ija/ija2018/homework2/game/ChessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/release/ija/ija2018/homework2/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/Homework2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/board/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/board/BoardField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/common/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/release/ija/ija2018/homework2/common/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/game/CheckerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/release/ija/ija2018/homework2/game/CheckerGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/ija/ija2018/homework2/game/ChessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/release/ija/ija2018/homework2/game/ChessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/xberan43.zip" beforeDir="false" afterPath="$PROJECT_DIR$/release/xberan43.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/game/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/board/BoardField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/game/BoardField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/common/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/common/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/game/CheckerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/game/CheckerGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ija/ija2018/homework2/game/ChessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ija/ija2018/homework2/game/ChessGame.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/ChessGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="469">
+              <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,9 +47,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/commands/MoveInvoker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="289">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/commands/MoveCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="323">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/FigureBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
+            <state relative-caret-position="850">
               <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,10 +100,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/board/BoardField.java">
+        <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/BoardField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1802">
-              <caret line="147" column="43" selection-start-line="147" selection-start-column="43" selection-end-line="147" selection-end-column="43" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;method#printSurrounding#0;class#BoardField#0" />
@@ -107,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/Rook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+            <state relative-caret-position="1054">
+              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,8 +151,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/common/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -153,6 +176,9 @@
       <find>setin</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -172,25 +198,25 @@
         <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/common/Figure.java" />
         <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/common/Field.java" />
         <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/board/BoardField.java" />
-        <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java" />
         <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/Pawn.java" />
         <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/game/ChessGame.java" />
         <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/Rook.java" />
+        <option value="$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1938" />
-    <option name="height" value="1056" />
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="1941" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,36 +240,14 @@
               <item name="IJAukol2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="board" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IJAukol2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IJAukol2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IJAukol2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IJAukol2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IJAukol2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IJAukol2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="figures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,7 +257,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554751422063" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555061687194" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../NOTMINE/IJA" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -348,16 +352,12 @@
       <workItem from="1554546701900" duration="5404000" />
       <workItem from="1554703793347" duration="20165000" />
       <workItem from="1554790368649" duration="1856000" />
+      <workItem from="1555060530706" duration="1759000" />
+      <workItem from="1555073498303" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Homework2Test - 2019.04.08 at 19h 21m 04s.xml">
-      <configuration name="Homework2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Homework2Test_testChessGame - 2019.04.08 at 19h 23m 40s.xml">
-      <configuration name="Homework2Test.testChessGame" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Homework2Test_testChessGame - 2019.04.08 at 19h 36m 51s.xml">
       <configuration name="Homework2Test.testChessGame" configurationId="JUnit" />
     </history-entry>
@@ -382,14 +382,20 @@
     <history-entry file="Homework2Test - 2019.04.08 at 19h 58m 05s.xml">
       <configuration name="Homework2Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Homework2Test - 2019.04.12 at 11h 15m 54s.xml">
+      <configuration name="Homework2Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework2Test - 2019.04.12 at 11h 25m 15s.xml">
+      <configuration name="Homework2Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27425000" />
+    <option name="totallyTimeSpent" value="29187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2525074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584071" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,24 +462,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java</url>
-          <line>117</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java</url>
-          <line>64</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -530,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/board/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="69" column="60" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/CheckerDisk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -557,9 +538,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/commands/MoveInvoker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -571,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/commands/MoveCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -582,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/FigureBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="850">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -595,10 +593,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/board/BoardField.java">
+    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/BoardField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="147" column="43" selection-start-line="147" selection-start-column="43" selection-end-line="147" selection-end-column="43" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;method#printSurrounding#0;class#BoardField#0" />
@@ -619,6 +617,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/Rook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/common/Field.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -628,25 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/common/Figure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/game/figures/Rook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ija/ija2018/homework2/Homework2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
